@@ -1,5 +1,5 @@
 # baseline_DA
-## My First Study of Python basic
+## My First Study of Data Analysis
 > - Data Analysis
 > - numpy
 > - pandas
